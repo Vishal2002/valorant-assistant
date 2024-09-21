@@ -1,1 +1,7 @@
 flask
+boto3
+langchain 
+streamlit 
+pillow 
+faiss-cpu
+awscli
